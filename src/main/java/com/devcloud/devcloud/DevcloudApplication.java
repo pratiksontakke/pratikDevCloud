@@ -16,7 +16,7 @@ public class DevcloudApplication extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(DevcloudApplication.class);
 	}
-# Added comment from MUMBAI
-# TODO : Added comment from SINGAPORE
-# Added comment from branch1 MUMBAI
+// Added comment from MUMBAI
+//  TODO : Added comment from SINGAPORE
+//  Added comment from branch1 MUMBAI
 }
